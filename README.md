@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name is Ariz!...
+Hi i'm Ariz, a driven and enthusiastic computer science student deeply passionate about software development and technology. With expertise in languages like Python, Java, and Swift, coupled with proficiency in developer tools such as React.js and Vue.js, I have cultivated a strong skill set through hands-on experiences and diverse projects. From crafting cross-platform productivity applications to engineering dynamic movie websites, I thrive on solving complex problems and innovating solutions. Committed to continuous learning and growth, I am poised to make meaningful contributions to the ever-evolving realm of technology. With excellent communication skills and a collaborative mindset, I am eager to leverage my talents to drive impactful change and create innovative solutions in the tech industry.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arizkazani) 
