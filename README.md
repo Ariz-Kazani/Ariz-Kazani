@@ -29,7 +29,7 @@ Hi i'm Ariz, a driven and enthusiastic computer science student deeply passionat
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Firestore Database](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 # 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api?username=Ariz-Kazani&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Ariz-Kazani&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ariz-Kazani&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariz-Kazani&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
