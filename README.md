@@ -32,7 +32,7 @@ carleton.ca
 
 ![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,js,ts,php,r,)
 
-# Frameworks/Tools
+## Frameworks/Tools
 
 ![Frameworks/Tools](https://skillicons.dev/icons?i=next,react,vue,laravel,nodejs,deno,vite,tailwind,sass,unity,bash,linux,pytorch,mysql,sqlite)
 
