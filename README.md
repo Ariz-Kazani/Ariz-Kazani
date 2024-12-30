@@ -30,7 +30,7 @@ carleton.ca
 
 ## Languages
 
-![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,js,ts,php,r,)
+![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,js,ts,php,r,go,)
 
 ## Frameworks/Tools
 
