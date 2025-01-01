@@ -12,8 +12,8 @@
 
 # ⚙️ What I'm Working on Now:
 
-- TimeCoPilot - The Ultimate productivity app
-- AutoSchedular- Automaitcally creates university schedule for students at carleton
+- TimeCoPilot - The ultimate productivity app (currently building Time-CoPilot AI)
+- AutoSchedular- Automaitcally creates university schedule for students at carleton 
 - Stock Predictor - Various algorithms to predict stock prices
 - Block Hunt- Mobile game using unity
 
