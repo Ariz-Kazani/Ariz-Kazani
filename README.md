@@ -24,7 +24,7 @@
 [![Linkedin](https://skillicons.dev/icons?i=gmail)](MAILTO:ArizKazani@cmail.carleton.ca) ArizKazani@cmail.
 carleton.ca
 
-# [Portfolio website 🌐](https://www.arizkazani.com/)
+# [Portfolio website 🌐](https://www.arizkazani.ca/)
 
 # 💻 Tech Stack:
 
