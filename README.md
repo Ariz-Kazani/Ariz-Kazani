@@ -2,7 +2,7 @@
 
 👋 Hi there, I'm Ariz.
 
-💻 Seeking summer 2025 co-ops in software development/engineering
+💻 Seeking summer 2026 co-ops in software development/engineering
 
 📚 Second year CS @ Carleton University.
 
