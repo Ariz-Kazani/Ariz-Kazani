@@ -4,7 +4,7 @@
 
 💻 Seeking summer 2026 co-ops in software development/engineering
 
-📚 Second year CS @ Carleton University.
+📚 Third year CS @ Carleton University.
 
 ⚙️ Always interested and learning about the latest and greatest technologies.
 
@@ -21,8 +21,10 @@
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/arizkazani)
 
-[![Linkedin](https://skillicons.dev/icons?i=gmail)](MAILTO:ArizKazani@cmail.carleton.ca) ArizKazani@cmail.
-carleton.ca
+[![Linkedin](https://skillicons.dev/icons?i=gmail)](MAILTO:contact@arizkazani.com)
+```
+contact@arizkazani.com
+```
 
 # [Portfolio website 🌐](https://www.arizkazani.ca/)
 
