@@ -4,7 +4,7 @@
 
 💻 Seeking summer 2026 co-ops in software development/engineering
 
-📚 Third year CS @ Carleton University.
+📚 CS @ Carleton University.
 
 ⚙️ Always interested and learning about the latest and greatest technologies.
 
