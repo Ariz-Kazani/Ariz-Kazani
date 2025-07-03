@@ -10,6 +10,10 @@
 
 🤝 Feel free to connect, and have a chat with me!
 
+# ✈️ Other Accounts
+
+[ariz-riw](https://github.com/ariz-riw)
+
 # ⚙️ What I'm Working on Now:
 
 - TimeCoPilot - The ultimate productivity app (currently building Time-CoPilot AI)
